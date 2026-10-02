@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&width=435&lines=Hi%2C+I'm+Muhammad+Daniyal+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&size=30&pause=1000&width=435&lines=Hi%2C+I'm+Muhammad+Daniyal+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### Full-Stack Developer • Agentic AI Developer • Python Developer
 
