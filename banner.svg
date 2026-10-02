@@ -1,0 +1,128 @@
+<svg viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+
+    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1F6FEB"/>
+      <stop offset="50%" stop-color="#2EA043"/>
+      <stop offset="100%" stop-color="#1F6FEB"/>
+
+      <animateTransform
+        attributeName="gradientTransform"
+        type="translate"
+        values="-1 0; 1 0; -1 0"
+        dur="6s"
+        repeatCount="indefinite"
+      />
+    </linearGradient>
+
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </linearGradient>
+
+    <filter id="nameGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur">
+        <animate
+          attributeName="stdDeviation"
+          values="1.5;4;1.5"
+          dur="3s"
+          repeatCount="indefinite"
+        />
+      </feGaussianBlur>
+
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <rect x="2" y="2" width="896" height="176" rx="14"
+        fill="url(#bgGrad)"
+        stroke="url(#borderGlow)"
+        stroke-width="2"/>
+
+  <circle cx="34" cy="34" r="6" fill="#ff5f56"/>
+  <circle cx="56" cy="34" r="6" fill="#ffbd2e"/>
+  <circle cx="78" cy="34" r="6" fill="#27c93f"/>
+
+  <text x="450" y="39"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="12"
+        fill="#8B949E">
+    daniyal@github — agentic-ai
+  </text>
+
+  <line x1="24" y1="52" x2="876" y2="52"
+        stroke="#21262D"
+        stroke-width="1"/>
+
+  <text x="40" y="80"
+        font-family="monospace"
+        font-size="15"
+        fill="#8B949E"
+        opacity="0">
+
+    <animate attributeName="opacity"
+             to="1"
+             dur="0.4s"
+             begin="0.2s"
+             fill="freeze"/>
+
+    <tspan fill="#F2CC60">$ </tspan>whoami
+  </text>
+
+  <text x="450" y="128"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-weight="800"
+        font-size="42"
+        fill="#58A6FF"
+        filter="url(#nameGlow)"
+        opacity="0">
+
+    <animate attributeName="opacity"
+             to="1"
+             dur="0.6s"
+             begin="0.9s"
+             fill="freeze"/>
+
+    <animate attributeName="fill"
+             values="#58A6FF;#3FB950;#58A6FF"
+             dur="4s"
+             begin="1.5s"
+             repeatCount="indefinite"/>
+
+    MUHAMMAD DANIYAL ASLAM
+  </text>
+
+  <text x="450" y="160"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="14"
+        fill="#8B949E"
+        opacity="0">
+
+    <animate attributeName="opacity"
+             to="1"
+             dur="0.4s"
+             begin="1.7s"
+             fill="freeze"/>
+
+    Full-Stack Developer · Agentic AI Developer
+  </text>
+
+  <rect x="730" y="148" width="9" height="16"
+        fill="#F2CC60"
+        opacity="0">
+
+    <animate attributeName="opacity"
+             values="0;1;1;0"
+             dur="0.9s"
+             repeatCount="indefinite"
+             begin="2.1s"/>
+  </rect>
+
+</svg>
