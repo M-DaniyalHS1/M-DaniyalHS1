@@ -14,6 +14,8 @@
 
 ---
 
+![About me](aboutme)
+
 👨‍💻  ABOUT ME
 
 🚀  Building modern Full-Stack Web Applications
