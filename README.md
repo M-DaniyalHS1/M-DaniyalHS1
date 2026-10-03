@@ -3,8 +3,6 @@
 ![GitHub Banner](banner.svg)
 
 
-<img src="roles.svg" width="100%" alt="Developer Roles Animation">
-
 
 ![What I build](./github-intro.svg)
 
