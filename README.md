@@ -6,11 +6,11 @@
 
 ![What I build](./github-intro.svg)
 
-
+![divider](divider.svg)
 
 </div>
 
-![divider](divider.svg)
+
 
 ![About me](aboutme)
 
