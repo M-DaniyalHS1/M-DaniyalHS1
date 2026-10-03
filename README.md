@@ -12,7 +12,7 @@
 
 
 
-![About me](aboutme)
+![About me](aboutme.png)
 
 ![divider](divider.svg)
 
