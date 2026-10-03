@@ -3,7 +3,7 @@
 ![GitHub Banner](banner.svg)
 
 
-<img src="rolls" width="100%" alt="Developer Roles Animation">
+<img src="roles.svg" width="100%" alt="Developer Roles Animation">
 
 
 I build modern full-stack applications, intelligent AI agents, automation workflows, REST APIs, and AI-powered products.
