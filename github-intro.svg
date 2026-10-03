@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+  <title id="title">Full-Stack Development + Agentic AI</title>
+  <desc id="desc">I build modern full-stack applications, intelligent AI agents, automation workflows, REST APIs, and AI-powered products. Full-Stack Apps plus AI Agents plus Automation plus REST APIs lead to Intelligent Real-World Products.</desc>
+  <defs>
+    <linearGradient id="spectrum" x1="0" x2="1"><stop stop-color="#58a6ff"/><stop offset=".5" stop-color="#bc8cff"/><stop offset="1" stop-color="#56d6a0"/></linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/></filter>
+    <path id="route" d="M140 171H860M500 171V213"/>
+    <style>
+      text{font-family:Segoe UI,Arial,sans-serif;text-anchor:middle}
+      .label{font-size:17px;font-weight:600;fill:#e6edf3}
+      .icon{fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+      .pulse{animation:breathe 4s ease-in-out infinite}
+      .focus{animation:focus 6s ease-in-out infinite}
+      @keyframes breathe{0%,100%{opacity:.4}50%{opacity:.9}}
+      @keyframes focus{0%,100%{opacity:.75}50%{opacity:1}}
+      @media(prefers-reduced-motion:reduce){.pulse,.focus{animation:none}}
+    </style>
+  </defs>
+  <text x="500" y="34" fill="#8b949e" font-size="11" font-weight="600" letter-spacing="3.5">FROM IDEAS TO USEFUL SOFTWARE</text>
+  <text x="500" y="72" fill="#e6edf3" font-size="30" font-weight="700">Building applications that do more.</text>
+  <text x="500" y="99" fill="#8b949e" font-size="14">Modern interfaces. Intelligent agents. Connected workflows.</text>
+
+  <!-- Transparent cards: all backgrounds remain unfilled. -->
+  <g fill="none" stroke="#303b4b"><rect x="48" y="128" width="185" height="78" rx="15"/><rect x="288" y="128" width="185" height="78" rx="15"/><rect x="528" y="128" width="185" height="78" rx="15"/><rect x="768" y="128" width="185" height="78" rx="15"/></g>
+  <g class="icon" stroke="#58a6ff" transform="translate(126 140)"><rect width="28" height="19" rx="3"/><path d="m9 5-4 4 4 4m10-8 4 4-4 4M-3 24h34M11 19v5m6-5v5"/></g>
+  <g class="icon" stroke="#bc8cff" transform="translate(366 138)"><rect x="1" y="5" width="28" height="23" rx="7"/><path d="M15 0v5M-3 13v8m36-8v8M10 22h10"/><circle cx="9" cy="14" r="1.5"/><circle cx="21" cy="14" r="1.5"/></g>
+  <g class="icon" stroke="#56d6a0" transform="translate(606 140)"><rect width="10" height="10" rx="3"/><rect x="20" y="18" width="10" height="10" rx="3"/><path d="M10 5h9q6 0 6 6v7M20 23h-9q-6 0-6-6v-7m17 5 3 3 3-3"/></g>
+  <g class="icon" stroke="#79c0ff" transform="translate(846 141)"><path d="m7 2-7 10 7 10m16-20 7 10-7 10M18 0l-6 24"/></g>
+  <text class="label" x="140" y="190">Full-Stack Apps</text><text class="label" x="380" y="190">AI Agents</text><text class="label" x="620" y="190">Automation</text><text class="label" x="860" y="190">REST APIs</text>
+  <g fill="#687588" font-size="24"><text x="260" y="175">+</text><text x="500" y="175">+</text><text x="740" y="175">+</text></g>
+
+  <path d="M140 207v17h720v-17M380 207v17m240-17v17M500 224v22" stroke="url(#spectrum)" stroke-opacity=".45" fill="none"/>
+  <path d="m495 240 5 6 5-6" stroke="#bc8cff" stroke-width="1.5" fill="none"/>
+  <circle cx="500" cy="224" r="5" fill="#bc8cff" filter="url(#glow)" class="pulse"/>
+  <rect x="271" y="256" width="458" height="48" rx="24" stroke="url(#spectrum)" stroke-opacity=".7" fill="none"/>
+  <g class="icon" stroke="#56d6a0" transform="translate(292 270)"><path d="m10 0 2.5 7.5L20 10l-7.5 2.5L10 20l-2.5-7.5L0 10l7.5-2.5Z"/></g>
+  <text x="511" y="286" fill="#e6edf3" font-size="19" font-weight="600">Intelligent Real-World Products</text>
+  <g class="focus"><circle cx="260" cy="333" r="3" fill="#56d6a0"/><text x="507" y="338" font-size="14" fill="#8b949e">Focused on <tspan fill="#79c0ff" font-weight="600">Full-Stack Development</tspan><tspan fill="#8b949e"> + </tspan><tspan fill="#bc8cff" font-weight="600">Agentic AI</tspan></text></g>
+  <!-- Motion uses individual highlights, never overlapping text copies. -->
+  <g fill="#79c0ff"><circle r="3" opacity="0"><animate attributeName="cx" values="140;500;500" dur="4s" repeatCount="indefinite"/><animate attributeName="cy" values="224;224;246" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;.8;0" keyTimes="0;.1;.8;1" dur="4s" repeatCount="indefinite"/></circle></g>
+  <g fill="#56d6a0"><circle r="3" opacity="0"><animate attributeName="cx" values="860;500;500" dur="4s" begin="2s" repeatCount="indefinite"/><animate attributeName="cy" values="224;224;246" dur="4s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;.8;0" keyTimes="0;.1;.8;1" dur="4s" begin="2s" repeatCount="indefinite"/></circle></g>
+</svg>
