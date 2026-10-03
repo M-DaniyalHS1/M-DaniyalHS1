@@ -1,0 +1,96 @@
+<svg width="1000" height="90" viewBox="0 0 1000 90"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Soft neon glow -->
+    <filter id="glow" x="-50%" y="-100%" width="200%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Extra subtle glow -->
+    <filter id="softGlow" x="-50%" y="-100%" width="200%" height="300%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+
+    <!-- Keeps text inside the visible area -->
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1000" height="90"/>
+    </clipPath>
+
+  </defs>
+
+  <g clip-path="url(#clip)">
+
+    <!-- Entire text group moves smoothly right → left -->
+    <g>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="1050 0; -1100 0"
+        dur="15s"
+        repeatCount="indefinite"
+      />
+
+      <!-- Large soft glow behind text -->
+      <text
+        x="0"
+        y="57"
+        font-family="Inter, Arial, sans-serif"
+        font-size="31"
+        font-weight="700"
+        letter-spacing="1"
+        fill="#58A6FF"
+        opacity="0.35"
+        filter="url(#softGlow)"
+      >
+        Full-Stack Developer • Agentic AI Developer • Python Developer
+
+        <animate
+          attributeName="fill"
+          values="
+            #58A6FF;
+            #A371F7;
+            #3FB950;
+            #58A6FF
+          "
+          dur="7s"
+          repeatCount="indefinite"
+        />
+      </text>
+
+      <!-- Main glowing text -->
+      <text
+        x="0"
+        y="57"
+        font-family="Inter, Arial, sans-serif"
+        font-size="31"
+        font-weight="700"
+        letter-spacing="1"
+        fill="#58A6FF"
+        filter="url(#glow)"
+      >
+        Full-Stack Developer • Agentic AI Developer • Python Developer
+
+        <animate
+          attributeName="fill"
+          values="
+            #58A6FF;
+            #A371F7;
+            #3FB950;
+            #58A6FF
+          "
+          dur="7s"
+          repeatCount="indefinite"
+        />
+      </text>
+
+    </g>
+
+  </g>
+
+</svg>
