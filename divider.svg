@@ -1,80 +1,153 @@
-<svg width="100%" height="40" viewBox="0 0 1200 40"
-     xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="854"
+     height="20"
+     viewBox="0 0 854 20">
 
   <defs>
 
-    <!-- Repeating animated neon gradient -->
-    <linearGradient id="neonFlow"
-                    x1="0" y1="0"
-                    x2="1200" y2="0"
-                    gradientUnits="userSpaceOnUse"
-                    spreadMethod="repeat">
+    <!-- Animated gradient -->
+    <linearGradient id="gradient"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%">
 
-      <stop offset="0%" stop-color="#00F7FF"/>
-      <stop offset="15%" stop-color="#008CFF"/>
-      <stop offset="30%" stop-color="#7A5CFF"/>
-      <stop offset="45%" stop-color="#D946EF"/>
-      <stop offset="60%" stop-color="#FF2BD6"/>
-      <stop offset="75%" stop-color="#7A5CFF"/>
-      <stop offset="90%" stop-color="#008CFF"/>
-      <stop offset="100%" stop-color="#00F7FF"/>
+      <stop offset="0%" stop-color="#00F5FF">
+        <animate attributeName="stop-color"
+          values="#00F5FF;#3B82F6;#8B5CF6;#EC4899;#00F5FF"
+          dur="4s"
+          repeatCount="indefinite"/>
+      </stop>
 
-      <!-- MOVE THE ENTIRE GRADIENT -->
-      <animateTransform
-        attributeName="gradientTransform"
-        type="translate"
-        from="-1200 0"
-        to="1200 0"
-        dur="4s"
-        repeatCount="indefinite"/>
+      <stop offset="35%" stop-color="#3B82F6">
+        <animate attributeName="stop-color"
+          values="#3B82F6;#8B5CF6;#EC4899;#00F5FF;#3B82F6"
+          dur="4s"
+          repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="70%" stop-color="#8B5CF6">
+        <animate attributeName="stop-color"
+          values="#8B5CF6;#EC4899;#00F5FF;#3B82F6;#8B5CF6"
+          dur="4s"
+          repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="100%" stop-color="#EC4899">
+        <animate attributeName="stop-color"
+          values="#EC4899;#00F5FF;#3B82F6;#8B5CF6;#EC4899"
+          dur="4s"
+          repeatCount="indefinite"/>
+      </stop>
 
     </linearGradient>
 
 
-    <!-- Neon glow -->
+    <!-- Soft glow -->
     <filter id="glow"
-            x="-20%" y="-400%"
-            width="140%" height="900%">
+            x="-10%"
+            y="-200%"
+            width="120%"
+            height="500%">
 
       <feGaussianBlur
-        stdDeviation="5"
+        stdDeviation="1.5"
         result="blur"/>
 
       <feMerge>
-        <feMergeNode in="blur"/>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
 
     </filter>
 
+
+    <!-- Hide anything outside divider -->
+    <clipPath id="clip">
+      <rect width="854" height="20"/>
+    </clipPath>
+
   </defs>
 
 
-  <!-- Large soft glow -->
-  <line
-    x1="20"
-    y1="20"
-    x2="1180"
-    y2="20"
-    stroke="url(#neonFlow)"
-    stroke-width="10"
-    stroke-linecap="round"
-    opacity="0.20"
-    filter="url(#glow)"
-  />
+  <g clip-path="url(#clip)">
 
+    <!--
+      Repeating ECG line.
 
-  <!-- Main flowing line -->
-  <line
-    x1="20"
-    y1="20"
-    x2="1180"
-    y2="20"
-    stroke="url(#neonFlow)"
-    stroke-width="3"
-    stroke-linecap="round"
-    filter="url(#glow)"
-  />
+      Whole path moves horizontally,
+      creating travelling heartbeat waves.
+    -->
+
+    <path
+      d="
+      M -300 10
+      L -220 10
+      L -210 9
+      L -202 11
+      L -194 6
+      L -184 14
+      L -174 8
+      L -164 10
+      L -80 10
+
+      L 0 10
+      L 80 10
+      L 90 9
+      L 98 11
+      L 106 6
+      L 116 14
+      L 126 8
+      L 136 10
+      L 220 10
+
+      L 300 10
+      L 380 10
+      L 390 9
+      L 398 11
+      L 406 6
+      L 416 14
+      L 426 8
+      L 436 10
+      L 520 10
+
+      L 600 10
+      L 680 10
+      L 690 9
+      L 698 11
+      L 706 6
+      L 716 14
+      L 726 8
+      L 736 10
+      L 820 10
+
+      L 900 10
+      L 980 10
+      L 990 9
+      L 998 11
+      L 1006 6
+      L 1016 14
+      L 1026 8
+      L 1036 10
+      L 1120 10
+      "
+
+      fill="none"
+      stroke="url(#gradient)"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      filter="url(#glow)">
+
+      <!-- MOVE THE ACTUAL ECG -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="-300 0"
+        to="0 0"
+        dur="3s"
+        repeatCount="indefinite"/>
+
+    </path>
+
+  </g>
 
 </svg>
