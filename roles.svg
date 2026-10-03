@@ -31,7 +31,7 @@
       <animateTransform
         attributeName="transform"
         type="translate"
-        values="1050 0; -1800 0"
+        values="1050 0; -800 0"
         dur="15s"
         repeatCount="indefinite"
       />
