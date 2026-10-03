@@ -1,7 +1,6 @@
 <div align="center">
 
 ![GitHub Banner](banner.svg)
-![GitHub Banner](skills.svg)
 
 ### Full-Stack Developer • Agentic AI Developer • Python Developer
 
