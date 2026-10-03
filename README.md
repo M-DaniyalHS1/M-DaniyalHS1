@@ -12,7 +12,7 @@
 
 </div>
 
----
+![divider](divider.svg)
 
 ![About me](aboutme)
 
