@@ -2,7 +2,9 @@
 
 ![GitHub Banner](banner.svg)
 
-### Full-Stack Developer • Agentic AI Developer • Python Developer
+
+<img src="rolls.svg" width="100%" alt="Developer Roles Animation">
+
 
 I build modern full-stack applications, intelligent AI agents, automation workflows, REST APIs, and AI-powered products.
 
