@@ -5,6 +5,7 @@
 
 <img src="roles.svg" width="100%" alt="Developer Roles Animation">
 
+![What I build](./github-intro.svg)
 
 I build modern full-stack applications, intelligent AI agents, automation workflows, REST APIs, and AI-powered products.
 
