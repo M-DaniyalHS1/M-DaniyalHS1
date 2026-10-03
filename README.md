@@ -14,24 +14,7 @@
 
 ![About me](aboutme)
 
-👨‍💻  ABOUT ME
-
-🚀  Building modern Full-Stack Web Applications
-🤖  Developing Agentic AI & AI-powered applications
-🐍  Python • FastAPI • Django
-⚛️  React • JavaScript
-🎨  HTML • CSS • Tailwind CSS
-🗄️  PostgreSQL • Supabase • SQLite • SQLAlchemy
-🔐  JWT • OAuth2 Authentication
-🔗  REST API Design & Integration
-⚙️  Workflow Automation with n8n
-🧠  LLMs • AI Agents • Tool Calling • AI Automation
-☁️  Learning Cloud Deployment & Production Workflows
-
-🎯  GOAL
-Build intelligent full-stack products powered by AI.
-
----
+![divider](divider.svg)
 
 # 🎓 Aᴄᴀᴅᴇᴍɪᴄ Bᴀᴄᴋɢʀᴏᴜɴᴅ
 
@@ -46,7 +29,7 @@ Completed with **78%**
 **PIAIC**  
 Artificial Intelligence • Cloud • Agentic AI
 
----
+![divider](divider.svg)
 
 # 🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs
 
@@ -84,7 +67,7 @@ A full-stack blog platform with a React frontend and FastAPI backend connected t
 
 </details>
 
----
+![divider](divider.svg)
 
 <details>
 
@@ -110,7 +93,7 @@ A Todo application for practicing frontend-to-backend communication and database
 
 </details>
 
----
+![divider](divider.svg)
 
 ## 🤖 Agentic AI & AI Applications
 
@@ -140,7 +123,7 @@ An intelligent Python voice assistant capable of understanding commands, using A
 
 </details>
 
----
+![divider](divider.svg)
 
 <details>
 
@@ -156,7 +139,7 @@ An AI agent capable of retrieving and presenting current news using external API
 
 </details>
 
----
+![divider](divider.svg)
 
 <details>
 
@@ -172,7 +155,7 @@ An intelligent AI agent capable of retrieving geographical information about IP 
 
 </details>
 
----
+![divider](divider.svg)
 
 <details>
 
@@ -188,7 +171,7 @@ AI-powered cryptocurrency assistant capable of retrieving market prices using th
 
 </details>
 
----
+![divider](divider.svg)
 
 <details>
 
@@ -204,7 +187,7 @@ An AI agent connected with GitHub through MCP tools for interacting with reposit
 
 </details>
 
----
+![divider](divider.svg)
 
 ## ⚙️ Automation
 
@@ -222,7 +205,7 @@ Automated email workflow capable of processing emails and generating intelligent
 
 </details>
 
----
+![divider](divider.svg)
 
 <details>
 
@@ -238,7 +221,7 @@ Workflow automation experiments involving WhatsApp messaging and AI-powered auto
 
 </details>
 
----
+![divider](divider.svg)
 
 ## 📚 AI & Educational Platforms
 
@@ -266,7 +249,7 @@ An AI-native educational platform covering Physical AI and Humanoid Robotics.
 
 </details>
 
----
+![divider](divider.svg)
 
 # 🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ
 
@@ -282,7 +265,7 @@ An AI-native educational platform covering Physical AI and Humanoid Robotics.
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
+![divider](divider.svg)
 
 ## ⚙️ Backend
 
@@ -296,7 +279,7 @@ An AI-native educational platform covering Physical AI and Humanoid Robotics.
 
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
----
+![divider](divider.svg)
 
 ## 🗄️ Databases
 
@@ -306,7 +289,7 @@ An AI-native educational platform covering Physical AI and Humanoid Robotics.
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
+![divider](divider.svg)
 
 ## 🤖 Agentic AI
 
@@ -322,13 +305,13 @@ An AI-native educational platform covering Physical AI and Humanoid Robotics.
 
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-009688?style=for-the-badge)
 
----
+![divider](divider.svg)
 
 ## ⚡ Automation
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
----
+![divider](divider.svg)
 
 ## 🧰 Developer Tools
 
@@ -340,7 +323,7 @@ An AI-native educational platform covering Physical AI and Humanoid Robotics.
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+![divider](divider.svg)
 
 # 🧠 Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ
 
@@ -368,7 +351,7 @@ Currently expanding my skills in:
 - Workflow automation using **n8n**
 - Data Structures & Algorithms
 
----
+![divider](divider.svg)
 
 # 🔥 Wʜᴀᴛ I Bᴜɪʟᴅ
 
@@ -402,7 +385,7 @@ Deployment
 Cloud • Production Applications
 ```
 
----
+![divider](divider.svg)
 
 # 🎯 2026 Fᴏᴄᴜs
 
@@ -420,7 +403,7 @@ Automation
 Real-World AI Products
 ```
 
----
+![divider](divider.svg)
 
 # 📊 GɪᴛHᴜʙ Sᴛᴀᴛs
 
@@ -434,7 +417,7 @@ Real-World AI Products
 
 </div>
 
----
+![divider](divider.svg)
 
 # 🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
 
@@ -448,7 +431,7 @@ Real-World AI Products
 
 </div>
 
----
+![divider](divider.svg)
 
 # 🐍 GɪᴛHᴜʙ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Sɴᴀᴋᴇ
 
@@ -458,7 +441,7 @@ Real-World AI Products
 
 </div>
 
----
+![divider](divider.svg)
 
 <div align="center">
 
