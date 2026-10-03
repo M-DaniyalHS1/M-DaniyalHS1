@@ -14,20 +14,22 @@
 
 ---
 
-# 👨‍💻 Aʙᴏᴜᴛ Mᴇ
+👨‍💻  ABOUT ME
 
-- 🚀 Building modern **Full-Stack Web Applications**
-- 🤖 Developing **Agentic AI systems and AI-powered applications**
-- 🐍 Working with **Python, FastAPI & Django**
-- ⚛️ Building interactive frontends with **React & JavaScript**
-- 🎨 Creating responsive interfaces using **HTML, CSS & Tailwind CSS**
-- 🗄️ Working with **PostgreSQL, Supabase, SQLite & SQLAlchemy**
-- 🔐 Implementing authentication using **JWT & OAuth2**
-- 🔗 Designing and integrating **REST APIs**
-- ⚙️ Automating workflows using **n8n**
-- 🧠 Exploring **LLMs, AI Agents, tool calling and AI automation**
-- ☁️ Learning modern cloud deployment and production workflows
-- 🎯 Goal: Build intelligent full-stack products powered by AI
+🚀  Building modern Full-Stack Web Applications
+🤖  Developing Agentic AI & AI-powered applications
+🐍  Python • FastAPI • Django
+⚛️  React • JavaScript
+🎨  HTML • CSS • Tailwind CSS
+🗄️  PostgreSQL • Supabase • SQLite • SQLAlchemy
+🔐  JWT • OAuth2 Authentication
+🔗  REST API Design & Integration
+⚙️  Workflow Automation with n8n
+🧠  LLMs • AI Agents • Tool Calling • AI Automation
+☁️  Learning Cloud Deployment & Production Workflows
+
+🎯  GOAL
+Build intelligent full-stack products powered by AI.
 
 ---
 
