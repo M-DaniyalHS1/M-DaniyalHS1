@@ -263,13 +263,12 @@ An AI-native educational platform covering Physical AI and Humanoid Robotics.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/m-daniyal-aslam-hs1)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-daniyal-aslam-hs1)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.daniyal93337@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-M--DaniyalHS1-181717?style=for-the-badge&logo=github)](https://github.com/M-DaniyalHS1)
+[![GitHub](https://img.shields.io/badge/GitHub-M--DaniyalHS1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-DaniyalHS1)
 
 </div>
+
 
 ![divider](divider.svg)
 
