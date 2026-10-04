@@ -285,10 +285,6 @@ An AI-native educational platform covering Physical AI and Humanoid Robotics.
 
 <div align="center">
 
-### Full-Stack • Agentic AI • Automation
-
-**Building intelligent applications from frontend to AI agents.**
-
-⭐ Thanks for visiting my profile!
+![farewell](farewell.svg)
 
 </div>
