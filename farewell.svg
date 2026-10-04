@@ -34,7 +34,7 @@
     <text x="600" y="219" fill="url(#thanks)" filter="url(#glow)" opacity=".4" aria-hidden="true">Thanku for visiting my profile
       <animate attributeName="opacity" values=".25;.65;.25" dur="4s" repeatCount="indefinite"/>
     </text>
-    <text x="600" y="219" fill="url(#thanks)">Thanku for visiting my profile
+    <text x="600" y="219" fill="url(#thanks)">👋 Thanks for visiting — stay blessed! ✨
       <animate attributeName="opacity" values=".85;1;.85" dur="4s" repeatCount="indefinite"/>
     </text>
   </g>
