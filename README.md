@@ -245,41 +245,6 @@ An AI-native educational platform covering Physical AI and Humanoid Robotics.
 ![divider](divider.svg)
 
 
-# 🔥 Wʜᴀᴛ I Bᴜɪʟᴅ
-
-```text
-Frontend
-HTML • CSS • Tailwind CSS • JavaScript • React
-
-            ↓
-
-Backend
-Python • FastAPI • Django
-
-            ↓
-
-Database
-PostgreSQL • SQLite • Supabase • SQLAlchemy
-
-            ↓
-
-AI Layer
-LLMs • AI Agents • RAG • MCP • Tool Calling
-
-            ↓
-
-Automation
-n8n • APIs • AI Workflows
-
-            ↓
-
-Deployment
-Cloud • Production Applications
-```
-
-![divider](divider.svg)
-
-
 # 📊 GɪᴛHᴜʙ Sᴛᴀᴛs
 
 <div align="center">
