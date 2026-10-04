@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-labelledby="title description">
+  <title id="title">Academic Background</title>
+  <desc id="description">Benazir University Nawabshah. BSc / ADS (science), 2024–2026. Agentic AI Fundamentals — Level 1, completed with 78%. PIAIC: Artificial Intelligence, Cloud, Agentic AI.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".6" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <!-- Transparent canvas; all decorations are SVG vectors. -->
+  <g fill="none" stroke="url(#accent)" stroke-width="2" stroke-linejoin="round">
+    <path d="M30 39 50 29 70 39 50 49Z"/>
+    <path d="M37 43v12q13 10 26 0V43M70 39v19"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="86" y="53" font-size="28" font-weight="700" letter-spacing="1.5" fill="url(#accent)">ACADEMIC BACKGROUND</text>
+    <path d="M30 77H850" stroke="url(#accent)" stroke-width="1" opacity=".45"/>
+    <path d="M40 108V303" stroke="url(#accent)" stroke-width="2" opacity=".5"/>
+    <circle cx="40" cy="118" r="5" fill="#22d3ee"/>
+    <text x="62" y="124" font-size="22" font-weight="700" fill="#e6edf3">Benazir University Nawabshah</text>
+    <text x="62" y="155" font-size="18" fill="#c9d1d9">BSc / ADS (science)<tspan fill="#38bdf8">  •  2024 – 2026</tspan></text>
+    <circle cx="40" cy="201" r="5" fill="#818cf8"/>
+    <text x="62" y="207" font-size="16" font-weight="700" letter-spacing="1.5" fill="#38bdf8">CERTIFICATIONS</text>
+    <text x="62" y="238" font-size="21" font-weight="700" fill="#e6edf3">Agentic AI Fundamentals — Level 1</text>
+    <text x="62" y="267" font-size="18" fill="#c9d1d9">Completed with <tspan fill="#22d3ee" font-weight="700">78%</tspan><tspan fill="#8b5cf6">  •  </tspan><tspan font-weight="700">PIAIC</tspan></text>
+    <text x="62" y="300" font-size="17" fill="#aebbc9">Artificial Intelligence<tspan fill="#818cf8">  •  </tspan>Cloud<tspan fill="#818cf8">  •  </tspan>Agentic AI</text>
+  </g>
+</svg>
