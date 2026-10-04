@@ -20,6 +20,10 @@
 
 ![divider](divider.svg)
 
+![teckstack](teckstack1.svg)
+
+![divider](divider.svg)
+
 # 🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs
 
 > ▸ Click an arrow below to expand and explore ▸
@@ -238,9 +242,6 @@ An AI-native educational platform covering Physical AI and Humanoid Robotics.
 
 </details>
 
-![divider](divider.svg)
-
-![teckstack](teckstack1.svg)
 
 ![divider](divider.svg)
 
