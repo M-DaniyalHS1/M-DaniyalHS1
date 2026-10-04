@@ -18,8 +18,8 @@
 
 # 🎓 Aᴄᴀᴅᴇᴍɪᴄ Bᴀᴄᴋɢʀᴏᴜɴᴅ
 
-**[Your University / Institute]**  
-[Your Degree / Program] • [Year – Present]
+**[Benazir University Nawabshah]**  
+[BSc / ADS (science)] • [2024 - 2026]
 
 ### Certifications
 
