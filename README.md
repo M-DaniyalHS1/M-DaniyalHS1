@@ -67,7 +67,7 @@ A full-stack blog platform with a React frontend and FastAPI backend connected t
 
 </details>
 
-![divider](divider.svg)
+---
 
 <details>
 
@@ -93,7 +93,7 @@ A Todo application for practicing frontend-to-backend communication and database
 
 </details>
 
-![divider](divider.svg)
+---
 
 ## 🤖 Agentic AI & AI Applications
 
@@ -123,7 +123,7 @@ An intelligent Python voice assistant capable of understanding commands, using A
 
 </details>
 
-![divider](divider.svg)
+---
 
 <details>
 
@@ -139,7 +139,7 @@ An AI agent capable of retrieving and presenting current news using external API
 
 </details>
 
-![divider](divider.svg)
+---
 
 <details>
 
@@ -155,7 +155,7 @@ An intelligent AI agent capable of retrieving geographical information about IP 
 
 </details>
 
-![divider](divider.svg)
+---
 
 <details>
 
@@ -171,7 +171,7 @@ AI-powered cryptocurrency assistant capable of retrieving market prices using th
 
 </details>
 
-![divider](divider.svg)
+---
 
 <details>
 
@@ -205,7 +205,7 @@ Automated email workflow capable of processing emails and generating intelligent
 
 </details>
 
-![divider](divider.svg)
+---
 
 <details>
 
