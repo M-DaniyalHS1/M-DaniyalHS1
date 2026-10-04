@@ -16,18 +16,7 @@
 
 ![divider](divider.svg)
 
-# 🎓 Aᴄᴀᴅᴇᴍɪᴄ Bᴀᴄᴋɢʀᴏᴜɴᴅ
-
-**[Benazir University Nawabshah]**  
-[BSc / ADS (science)] • [2024 - 2026]
-
-### Certifications
-
-**Agentic AI Fundamentals — Level 1**  
-Completed with **78%**
-
-**PIAIC**  
-Artificial Intelligence • Cloud • Agentic AI
+![education](edu_back.svg)
 
 ![divider](divider.svg)
 
