@@ -1,0 +1,30 @@
+<p align="center">
+  <svg width="100%" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Gradient -->
+    <rect width="800" height="180" rx="12" fill="#0d1117"/>
+    
+    <!-- Grid Overlay -->
+    <path d="M0 30H800M0 60H800M0 90H800M0 120H800M0 150H800" stroke="#21262d" stroke-width="1"/>
+    
+    <!-- Animated Glowing Nodes (AI & Science Theme) -->
+    <circle cx="150" cy="90" r="6" fill="#58a6ff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="50" r="4" fill="#3fb950">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="130" r="5" fill="#f85149">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="90" r="7" fill="#a371f7">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Connecting Lines -->
+    <path d="M150 90L300 50M150 90L300 130M300 50L500 90M300 130L500 90" stroke="#30363d" stroke-width="2"/>
+
+    <!-- Text Layer -->
+    <text x="540" y="75" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="bold">BSc ADS & AI Student</text>
+    <text x="540" y="105" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14">Benazir University • PIAIC Agentic AI</text>
+  </svg>
+</p>
