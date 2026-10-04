@@ -244,33 +244,6 @@ An AI-native educational platform covering Physical AI and Humanoid Robotics.
 
 ![divider](divider.svg)
 
-# 🧠 Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ
-
-Currently expanding my skills in:
-
-- Advanced **JavaScript**
-- **React**
-- **Tailwind CSS**
-- **Django**
-- Advanced **FastAPI**
-- **PostgreSQL**
-- **SQL & SQLAlchemy**
-- Full-stack application architecture
-- Authentication & authorization
-- REST API development
-- Backend testing
-- Docker
-- Cloud deployment
-- **Agentic AI**
-- AI Agents
-- LLM integrations
-- Tool Calling
-- MCP
-- RAG systems
-- Workflow automation using **n8n**
-- Data Structures & Algorithms
-
-![divider](divider.svg)
 
 # 🔥 Wʜᴀᴛ I Bᴜɪʟᴅ
 
@@ -306,23 +279,6 @@ Cloud • Production Applications
 
 ![divider](divider.svg)
 
-# 🎯 2026 Fᴏᴄᴜs
-
-```text
-Full-Stack Development
-        +
-Agentic AI
-        ↓
-Intelligent Web Applications
-        ↓
-AI Agents
-        ↓
-Automation
-        ↓
-Real-World AI Products
-```
-
-![divider](divider.svg)
 
 # 📊 GɪᴛHᴜʙ Sᴛᴀᴛs
 
